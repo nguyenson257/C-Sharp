@@ -1,0 +1,15 @@
+D:\Study\221\C#\Test\BaiTapDaHinh\BaiTapDaHinh\bin\Debug\net6.0\BaiTapDaHinh.exe
+D:\Study\221\C#\Test\BaiTapDaHinh\BaiTapDaHinh\bin\Debug\net6.0\BaiTapDaHinh.deps.json
+D:\Study\221\C#\Test\BaiTapDaHinh\BaiTapDaHinh\bin\Debug\net6.0\BaiTapDaHinh.runtimeconfig.json
+D:\Study\221\C#\Test\BaiTapDaHinh\BaiTapDaHinh\bin\Debug\net6.0\BaiTapDaHinh.dll
+D:\Study\221\C#\Test\BaiTapDaHinh\BaiTapDaHinh\bin\Debug\net6.0\BaiTapDaHinh.pdb
+D:\Study\221\C#\Test\BaiTapDaHinh\BaiTapDaHinh\obj\Debug\net6.0\BaiTapDaHinh.csproj.AssemblyReference.cache
+D:\Study\221\C#\Test\BaiTapDaHinh\BaiTapDaHinh\obj\Debug\net6.0\BaiTapDaHinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\221\C#\Test\BaiTapDaHinh\BaiTapDaHinh\obj\Debug\net6.0\BaiTapDaHinh.AssemblyInfoInputs.cache
+D:\Study\221\C#\Test\BaiTapDaHinh\BaiTapDaHinh\obj\Debug\net6.0\BaiTapDaHinh.AssemblyInfo.cs
+D:\Study\221\C#\Test\BaiTapDaHinh\BaiTapDaHinh\obj\Debug\net6.0\BaiTapDaHinh.csproj.CoreCompileInputs.cache
+D:\Study\221\C#\Test\BaiTapDaHinh\BaiTapDaHinh\obj\Debug\net6.0\BaiTapDaHinh.dll
+D:\Study\221\C#\Test\BaiTapDaHinh\BaiTapDaHinh\obj\Debug\net6.0\refint\BaiTapDaHinh.dll
+D:\Study\221\C#\Test\BaiTapDaHinh\BaiTapDaHinh\obj\Debug\net6.0\BaiTapDaHinh.pdb
+D:\Study\221\C#\Test\BaiTapDaHinh\BaiTapDaHinh\obj\Debug\net6.0\BaiTapDaHinh.genruntimeconfig.cache
+D:\Study\221\C#\Test\BaiTapDaHinh\BaiTapDaHinh\obj\Debug\net6.0\ref\BaiTapDaHinh.dll
