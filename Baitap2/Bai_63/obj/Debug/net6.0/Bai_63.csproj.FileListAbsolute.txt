@@ -1,0 +1,15 @@
+D:\Study\221\C#\Test\Baitap2\Bai_63\obj\Debug\net6.0\Bai_63.csproj.AssemblyReference.cache
+D:\Study\221\C#\Test\Baitap2\Bai_63\obj\Debug\net6.0\Bai_63.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\221\C#\Test\Baitap2\Bai_63\obj\Debug\net6.0\Bai_63.AssemblyInfoInputs.cache
+D:\Study\221\C#\Test\Baitap2\Bai_63\obj\Debug\net6.0\Bai_63.AssemblyInfo.cs
+D:\Study\221\C#\Test\Baitap2\Bai_63\obj\Debug\net6.0\Bai_63.csproj.CoreCompileInputs.cache
+D:\Study\221\C#\Test\Baitap2\Bai_63\bin\Debug\net6.0\Bai_63.exe
+D:\Study\221\C#\Test\Baitap2\Bai_63\bin\Debug\net6.0\Bai_63.deps.json
+D:\Study\221\C#\Test\Baitap2\Bai_63\bin\Debug\net6.0\Bai_63.runtimeconfig.json
+D:\Study\221\C#\Test\Baitap2\Bai_63\bin\Debug\net6.0\Bai_63.dll
+D:\Study\221\C#\Test\Baitap2\Bai_63\bin\Debug\net6.0\Bai_63.pdb
+D:\Study\221\C#\Test\Baitap2\Bai_63\obj\Debug\net6.0\Bai_63.dll
+D:\Study\221\C#\Test\Baitap2\Bai_63\obj\Debug\net6.0\refint\Bai_63.dll
+D:\Study\221\C#\Test\Baitap2\Bai_63\obj\Debug\net6.0\Bai_63.pdb
+D:\Study\221\C#\Test\Baitap2\Bai_63\obj\Debug\net6.0\Bai_63.genruntimeconfig.cache
+D:\Study\221\C#\Test\Baitap2\Bai_63\obj\Debug\net6.0\ref\Bai_63.dll

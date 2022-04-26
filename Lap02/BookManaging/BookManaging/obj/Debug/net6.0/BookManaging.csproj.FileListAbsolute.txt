@@ -1,0 +1,15 @@
+D:\Study\221\C#\Lap02\BookManaging\BookManaging\obj\Debug\net6.0\BookManaging.csproj.AssemblyReference.cache
+D:\Study\221\C#\Lap02\BookManaging\BookManaging\obj\Debug\net6.0\BookManaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\221\C#\Lap02\BookManaging\BookManaging\obj\Debug\net6.0\BookManaging.AssemblyInfoInputs.cache
+D:\Study\221\C#\Lap02\BookManaging\BookManaging\obj\Debug\net6.0\BookManaging.AssemblyInfo.cs
+D:\Study\221\C#\Lap02\BookManaging\BookManaging\obj\Debug\net6.0\BookManaging.csproj.CoreCompileInputs.cache
+D:\Study\221\C#\Lap02\BookManaging\BookManaging\bin\Debug\net6.0\BookManaging.exe
+D:\Study\221\C#\Lap02\BookManaging\BookManaging\bin\Debug\net6.0\BookManaging.deps.json
+D:\Study\221\C#\Lap02\BookManaging\BookManaging\bin\Debug\net6.0\BookManaging.runtimeconfig.json
+D:\Study\221\C#\Lap02\BookManaging\BookManaging\bin\Debug\net6.0\BookManaging.dll
+D:\Study\221\C#\Lap02\BookManaging\BookManaging\bin\Debug\net6.0\BookManaging.pdb
+D:\Study\221\C#\Lap02\BookManaging\BookManaging\obj\Debug\net6.0\BookManaging.dll
+D:\Study\221\C#\Lap02\BookManaging\BookManaging\obj\Debug\net6.0\refint\BookManaging.dll
+D:\Study\221\C#\Lap02\BookManaging\BookManaging\obj\Debug\net6.0\BookManaging.pdb
+D:\Study\221\C#\Lap02\BookManaging\BookManaging\obj\Debug\net6.0\BookManaging.genruntimeconfig.cache
+D:\Study\221\C#\Lap02\BookManaging\BookManaging\obj\Debug\net6.0\ref\BookManaging.dll

@@ -1,0 +1,15 @@
+D:\Study\221\C#\Test\Baitap2\ex\bin\Debug\net6.0\ex.exe
+D:\Study\221\C#\Test\Baitap2\ex\bin\Debug\net6.0\ex.deps.json
+D:\Study\221\C#\Test\Baitap2\ex\bin\Debug\net6.0\ex.runtimeconfig.json
+D:\Study\221\C#\Test\Baitap2\ex\bin\Debug\net6.0\ex.dll
+D:\Study\221\C#\Test\Baitap2\ex\bin\Debug\net6.0\ex.pdb
+D:\Study\221\C#\Test\Baitap2\ex\obj\Debug\net6.0\ex.csproj.AssemblyReference.cache
+D:\Study\221\C#\Test\Baitap2\ex\obj\Debug\net6.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\221\C#\Test\Baitap2\ex\obj\Debug\net6.0\ex.AssemblyInfoInputs.cache
+D:\Study\221\C#\Test\Baitap2\ex\obj\Debug\net6.0\ex.AssemblyInfo.cs
+D:\Study\221\C#\Test\Baitap2\ex\obj\Debug\net6.0\ex.csproj.CoreCompileInputs.cache
+D:\Study\221\C#\Test\Baitap2\ex\obj\Debug\net6.0\ex.dll
+D:\Study\221\C#\Test\Baitap2\ex\obj\Debug\net6.0\refint\ex.dll
+D:\Study\221\C#\Test\Baitap2\ex\obj\Debug\net6.0\ex.pdb
+D:\Study\221\C#\Test\Baitap2\ex\obj\Debug\net6.0\ex.genruntimeconfig.cache
+D:\Study\221\C#\Test\Baitap2\ex\obj\Debug\net6.0\ref\ex.dll

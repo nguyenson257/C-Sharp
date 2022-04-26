@@ -1,0 +1,15 @@
+D:\Study\221\C#\Test\Baitap2\Tong\bin\Debug\net6.0\Tong.exe
+D:\Study\221\C#\Test\Baitap2\Tong\bin\Debug\net6.0\Tong.deps.json
+D:\Study\221\C#\Test\Baitap2\Tong\bin\Debug\net6.0\Tong.runtimeconfig.json
+D:\Study\221\C#\Test\Baitap2\Tong\bin\Debug\net6.0\Tong.dll
+D:\Study\221\C#\Test\Baitap2\Tong\bin\Debug\net6.0\Tong.pdb
+D:\Study\221\C#\Test\Baitap2\Tong\obj\Debug\net6.0\Tong.csproj.AssemblyReference.cache
+D:\Study\221\C#\Test\Baitap2\Tong\obj\Debug\net6.0\Tong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\221\C#\Test\Baitap2\Tong\obj\Debug\net6.0\Tong.AssemblyInfoInputs.cache
+D:\Study\221\C#\Test\Baitap2\Tong\obj\Debug\net6.0\Tong.AssemblyInfo.cs
+D:\Study\221\C#\Test\Baitap2\Tong\obj\Debug\net6.0\Tong.csproj.CoreCompileInputs.cache
+D:\Study\221\C#\Test\Baitap2\Tong\obj\Debug\net6.0\Tong.dll
+D:\Study\221\C#\Test\Baitap2\Tong\obj\Debug\net6.0\refint\Tong.dll
+D:\Study\221\C#\Test\Baitap2\Tong\obj\Debug\net6.0\Tong.pdb
+D:\Study\221\C#\Test\Baitap2\Tong\obj\Debug\net6.0\Tong.genruntimeconfig.cache
+D:\Study\221\C#\Test\Baitap2\Tong\obj\Debug\net6.0\ref\Tong.dll

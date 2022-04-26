@@ -1,0 +1,15 @@
+D:\Study\221\C#\Test\Baitap2\NganHang\bin\Debug\net6.0\NganHang.exe
+D:\Study\221\C#\Test\Baitap2\NganHang\bin\Debug\net6.0\NganHang.deps.json
+D:\Study\221\C#\Test\Baitap2\NganHang\bin\Debug\net6.0\NganHang.runtimeconfig.json
+D:\Study\221\C#\Test\Baitap2\NganHang\bin\Debug\net6.0\NganHang.dll
+D:\Study\221\C#\Test\Baitap2\NganHang\bin\Debug\net6.0\NganHang.pdb
+D:\Study\221\C#\Test\Baitap2\NganHang\obj\Debug\net6.0\NganHang.csproj.AssemblyReference.cache
+D:\Study\221\C#\Test\Baitap2\NganHang\obj\Debug\net6.0\NganHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\221\C#\Test\Baitap2\NganHang\obj\Debug\net6.0\NganHang.AssemblyInfoInputs.cache
+D:\Study\221\C#\Test\Baitap2\NganHang\obj\Debug\net6.0\NganHang.AssemblyInfo.cs
+D:\Study\221\C#\Test\Baitap2\NganHang\obj\Debug\net6.0\NganHang.csproj.CoreCompileInputs.cache
+D:\Study\221\C#\Test\Baitap2\NganHang\obj\Debug\net6.0\NganHang.dll
+D:\Study\221\C#\Test\Baitap2\NganHang\obj\Debug\net6.0\refint\NganHang.dll
+D:\Study\221\C#\Test\Baitap2\NganHang\obj\Debug\net6.0\NganHang.pdb
+D:\Study\221\C#\Test\Baitap2\NganHang\obj\Debug\net6.0\NganHang.genruntimeconfig.cache
+D:\Study\221\C#\Test\Baitap2\NganHang\obj\Debug\net6.0\ref\NganHang.dll
