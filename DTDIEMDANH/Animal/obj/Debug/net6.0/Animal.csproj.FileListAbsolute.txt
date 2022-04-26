@@ -1,0 +1,15 @@
+D:\Study\221\C#\Test\PTBac2\Animal\obj\Debug\net6.0\Animal.csproj.AssemblyReference.cache
+D:\Study\221\C#\Test\PTBac2\Animal\obj\Debug\net6.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\221\C#\Test\PTBac2\Animal\obj\Debug\net6.0\Animal.AssemblyInfoInputs.cache
+D:\Study\221\C#\Test\PTBac2\Animal\obj\Debug\net6.0\Animal.AssemblyInfo.cs
+D:\Study\221\C#\Test\PTBac2\Animal\obj\Debug\net6.0\Animal.csproj.CoreCompileInputs.cache
+D:\Study\221\C#\Test\PTBac2\Animal\bin\Debug\net6.0\Animal.exe
+D:\Study\221\C#\Test\PTBac2\Animal\bin\Debug\net6.0\Animal.deps.json
+D:\Study\221\C#\Test\PTBac2\Animal\bin\Debug\net6.0\Animal.runtimeconfig.json
+D:\Study\221\C#\Test\PTBac2\Animal\bin\Debug\net6.0\Animal.dll
+D:\Study\221\C#\Test\PTBac2\Animal\bin\Debug\net6.0\Animal.pdb
+D:\Study\221\C#\Test\PTBac2\Animal\obj\Debug\net6.0\Animal.dll
+D:\Study\221\C#\Test\PTBac2\Animal\obj\Debug\net6.0\refint\Animal.dll
+D:\Study\221\C#\Test\PTBac2\Animal\obj\Debug\net6.0\Animal.pdb
+D:\Study\221\C#\Test\PTBac2\Animal\obj\Debug\net6.0\Animal.genruntimeconfig.cache
+D:\Study\221\C#\Test\PTBac2\Animal\obj\Debug\net6.0\ref\Animal.dll

@@ -1,0 +1,15 @@
+D:\Study\221\C#\Test\PTBac2\PTBac2\bin\Debug\net6.0\PTBac2.exe
+D:\Study\221\C#\Test\PTBac2\PTBac2\bin\Debug\net6.0\PTBac2.deps.json
+D:\Study\221\C#\Test\PTBac2\PTBac2\bin\Debug\net6.0\PTBac2.runtimeconfig.json
+D:\Study\221\C#\Test\PTBac2\PTBac2\bin\Debug\net6.0\PTBac2.dll
+D:\Study\221\C#\Test\PTBac2\PTBac2\bin\Debug\net6.0\PTBac2.pdb
+D:\Study\221\C#\Test\PTBac2\PTBac2\obj\Debug\net6.0\PTBac2.csproj.AssemblyReference.cache
+D:\Study\221\C#\Test\PTBac2\PTBac2\obj\Debug\net6.0\PTBac2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\221\C#\Test\PTBac2\PTBac2\obj\Debug\net6.0\PTBac2.AssemblyInfoInputs.cache
+D:\Study\221\C#\Test\PTBac2\PTBac2\obj\Debug\net6.0\PTBac2.AssemblyInfo.cs
+D:\Study\221\C#\Test\PTBac2\PTBac2\obj\Debug\net6.0\PTBac2.csproj.CoreCompileInputs.cache
+D:\Study\221\C#\Test\PTBac2\PTBac2\obj\Debug\net6.0\PTBac2.dll
+D:\Study\221\C#\Test\PTBac2\PTBac2\obj\Debug\net6.0\refint\PTBac2.dll
+D:\Study\221\C#\Test\PTBac2\PTBac2\obj\Debug\net6.0\PTBac2.pdb
+D:\Study\221\C#\Test\PTBac2\PTBac2\obj\Debug\net6.0\PTBac2.genruntimeconfig.cache
+D:\Study\221\C#\Test\PTBac2\PTBac2\obj\Debug\net6.0\ref\PTBac2.dll
