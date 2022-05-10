@@ -10,86 +10,86 @@ namespace BTDiemDanh
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[10];
+            int[] arr_46 = new int[10];
             Console.WriteLine("Nhap vao 10 so nguyen: ");
-            for(int i = 0; i < arr.Length; i++)
+            for(int i = 0; i < arr_46.Length; i++)
             {
-                arr[i] = int.Parse(Console.ReadLine());
+                arr_46[i] = int.Parse(Console.ReadLine());
             }
-            Console.WriteLine("So lon nhat trong day so tren la: " + FindMax(arr));
-            Console.WriteLine("So lon nhat trong day so tren la: " + FindMin(arr));
+            Console.WriteLine("So lon nhat trong day so tren la: " + FindMax(arr_46));
+            Console.WriteLine("So lon nhat trong day so tren la: " + FindMin(arr_46));
             Console.WriteLine("Sap xep tang dan: ");
-            PrintArr(SoftAscen(arr));
+            Printarr(SoftAscen(arr_46));
             Console.WriteLine("Sap xep giam dan: ");
-            PrintArr(SoftDescen(arr));
+            Printarr(SoftDescen(arr_46));
 
 
         }
-        public static void PrintArr(int[] arr)
+        public static void Printarr(int[] arr_46)
         {
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arr_46.Length; i++)
             {
-                Console.Write(arr[i] + " ");
+                Console.Write(arr_46[i] + " ");
             }
             Console.WriteLine();
         }
-        public static int FindMax(int[] arr)
+        public static int FindMax(int[] arr_46)
         {
             int m;
-            m = arr[0];
-            for (int i = 0; i < arr.Length; i++)
+            m = arr_46[0];
+            for (int i = 0; i < arr_46.Length; i++)
             {
-                if(arr[i] >= m)
+                if(arr_46[i] >= m)
                 {
-                    m = arr[i];
+                    m = arr_46[i];
                 }
             }
             return m;
         }
-        public static int FindMin(int[] arr)
+        public static int FindMin(int[] arr_46)
         {
             int m;
-            m = arr[0];
-            for (int i = 0; i < arr.Length; i++)
+            m = arr_46[0];
+            for (int i = 0; i < arr_46.Length; i++)
             {
-                if (arr[i] <= m)
+                if (arr_46[i] <= m)
                 {
-                    m = arr[i];
+                    m = arr_46[i];
                 }
             }
             return m;
         }
-        public static int[] SoftAscen(int[] arr)
+        public static int[] SoftAscen(int[] arr_46)
         {
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arr_46.Length; i++)
             {
-                for (int j = i + 1; j < arr.Length; j++)
+                for (int j = i + 1; j < arr_46.Length; j++)
                 {
-                    if (arr[i] > arr[j])
+                    if (arr_46[i] > arr_46[j])
                     {
-                        int temp = arr[i];
-                        arr[i] = arr[j];
-                        arr[j] = temp;
+                        int temp = arr_46[i];
+                        arr_46[i] = arr_46[j];
+                        arr_46[j] = temp;
                     }
                 }
             }
-            return arr;
+            return arr_46;
         }
-        public static int[] SoftDescen(int[] arr)
+        public static int[] SoftDescen(int[] arr_46)
         {
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arr_46.Length; i++)
             {
-                for (int j = i + 1; j < arr.Length; j++)
+                for (int j = i + 1; j < arr_46.Length; j++)
                 {
-                    if (arr[i] < arr[j])
+                    if (arr_46[i] < arr_46[j])
                     {
-                        int temp = arr[i];
-                        arr[i] = arr[j];
-                        arr[j] = temp;
+                        int temp = arr_46[i];
+                        arr_46[i] = arr_46[j];
+                        arr_46[j] = temp;
                     }
                 }
             }
-            return arr;
+            return arr_46;
         }
     }
 }
